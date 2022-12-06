@@ -1,0 +1,24 @@
+package DataType;
+
+public class Convertdoubletoint {
+    public static void main(String[] args) {
+
+        double num=100.235;
+        int num2=(int)num;
+        System.out.println(num2);
+
+
+
+
+
+
+
+
+    }
+
+
+
+
+
+
+}
